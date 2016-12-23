@@ -1,2 +1,2 @@
 # hello-world
-helloWorld GitHub
+helloWorld program using CMake
